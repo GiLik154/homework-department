@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sharetreats.domain.service.DepartmentHierarchyManagerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2023-06-29T03:27:02" hostname="sagwachaeg.local" time="0.01">
+  <properties/>
+  <testcase name="하위_부서가_없으면_등록_안됨()" classname="com.sharetreats.domain.service.DepartmentHierarchyManagerTest" time="0.004"/>
+  <testcase name="최상위_부서로_초기화()" classname="com.sharetreats.domain.service.DepartmentHierarchyManagerTest" time="0.001"/>
+  <testcase name="부서_구성_정상_작동()" classname="com.sharetreats.domain.service.DepartmentHierarchyManagerTest" time="0.001"/>
+  <testcase name="상위_부서가_없으면_등록_안됨()" classname="com.sharetreats.domain.service.DepartmentHierarchyManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

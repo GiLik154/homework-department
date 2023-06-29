@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sharetreats.domain.domain.DepartmentTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-06-29T03:27:02" hostname="sagwachaeg.local" time="0.103">
+  <properties/>
+  <testcase name="최상의_그룹과_바로_하위그룹이_있을때는_최상의와_하위그룹_전체의_직원_수를_카운팅을_한다()" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.019"/>
+  <testcase name="최상의_그룹과_바로_하위그룹이_있을때는_최상의와_하위그룹_전체의_직원_수를_카운팅을_한다2()" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.001"/>
+  <testcase name="최상의_생성_테스트()" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.001"/>
+  <testcase name="자식_부모가_중복되면_안됨()" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.003"/>
+  <testcase name="자식이_중복되면_안됨()" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.0"/>
+  <testcase name="최상의_그룹만_있을때는_최상의_직원_수만_카운팅을_한다()" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.001"/>
+  <testcase name="[1] -1" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.024"/>
+  <testcase name="[2] 1001" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.001"/>
+  <testcase name="자식_삭제_정상작동()" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.002"/>
+  <testcase name="[1] a" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.001"/>
+  <testcase name="[2] ㅁ" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.001"/>
+  <testcase name="[3] 1" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.001"/>
+  <testcase name="[4] @" classname="com.sharetreats.domain.domain.DepartmentTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

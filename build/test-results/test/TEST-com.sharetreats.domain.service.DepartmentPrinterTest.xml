@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sharetreats.domain.service.DepartmentPrinterTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-06-29T03:27:02" hostname="sagwachaeg.local" time="0.018">
+  <properties/>
+  <testcase name="최상위부서_출력_정상작동_1()" classname="com.sharetreats.domain.service.DepartmentPrinterTest" time="0.01"/>
+  <testcase name="최상위부서_출력_정상작동_2()" classname="com.sharetreats.domain.service.DepartmentPrinterTest" time="0.001"/>
+  <testcase name="최상위부서_출력_정상작동()" classname="com.sharetreats.domain.service.DepartmentPrinterTest" time="0.001"/>
+  <testcase name="부서_모두_출력_정상작동_1()" classname="com.sharetreats.domain.service.DepartmentPrinterTest" time="0.001"/>
+  <testcase name="부서_모두_출력_정상작동_2()" classname="com.sharetreats.domain.service.DepartmentPrinterTest" time="0.0"/>
+  <testcase name="부서_모두_출력_정상작동_3()" classname="com.sharetreats.domain.service.DepartmentPrinterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
