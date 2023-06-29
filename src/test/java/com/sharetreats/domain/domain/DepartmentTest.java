@@ -1,6 +1,5 @@
 package com.sharetreats.domain.domain;
 
-import com.sharetreats.domain.domain.Department;
 import com.sharetreats.exception.DuplicateDepartmentException;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
